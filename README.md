@@ -32,6 +32,7 @@ A aba de Perfil exibe informações do usuário e permite sair da conta.
 Clone o repositório
 
 git clone https://github.com/Brunosz2712/biblioteca-pessoal.git
+
 cd biblioteca-pessoal
 
 Instale as dependências
@@ -54,6 +55,8 @@ Tela de Detalhes do Livro
 Tela de Favoritos
 Tela de Perfil do Usuário
 
-👥 Autor
-Bruno da Silva Souza -> RM:94346 2TDSPG 
+👥 Equipe
+Bruno da Silva Souza -> RM:94346 2TDSPG
+Julio Samuel de Oliveira  -> RM:557453 2TDSPG
+Leonardo da Silva Pereira -> RM:557598 2TDSPG
 Desenvolvido como projeto de estudo utilizando React Native, Firebase e Expo.
