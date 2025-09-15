@@ -56,7 +56,11 @@ Tela de Favoritos
 Tela de Perfil do Usuário
 
 👥 Equipe
+
 Bruno da Silva Souza -> RM:94346 2TDSPG
+
 Julio Samuel de Oliveira  -> RM:557453 2TDSPG
+
 Leonardo da Silva Pereira -> RM:557598 2TDSPG
+
 Desenvolvido como projeto de estudo utilizando React Native, Firebase e Expo.
