@@ -31,7 +31,7 @@ A aba de Perfil exibe informações do usuário e permite sair da conta.
 🚀 Como rodar
 Clone o repositório
 
-git clone https://github.com/seu-usuario/biblioteca-pessoal.git
+git clone https://github.com/Brunosz2712/biblioteca-pessoal.git
 cd biblioteca-pessoal
 
 Instale as dependências
